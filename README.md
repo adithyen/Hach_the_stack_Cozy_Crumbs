@@ -63,7 +63,8 @@ Typography and spacing are designed to give a soft, friendly look suitable for a
 
 ## 👩‍💻 Author
 
-Developed by: *Sareena B S*  
+Developed by: Sareena B S and Fathima Shifana S 
+
 Role: Project Admin  
 Year: 2026  
 
