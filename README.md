@@ -75,4 +75,3 @@ Year: 2026
 > “Mugs that hug, and crumbs that fall,
 > A warm delight for one and all.” ☕✨
 
-https://sareenabs.github.io/Hach_the_stack_Cozy_Crumbs/
